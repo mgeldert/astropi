@@ -1,8 +1,5 @@
-from sense_hat import SenseHat
-from time import sleep
-sense = SenseHat()
-sense.set_rotation(270)
 
+#     R    G    B
 b = (  0,   0,   0)   # Black
 w = (255, 255, 255)   # White
 r = (255,   0,   0)   # Red
